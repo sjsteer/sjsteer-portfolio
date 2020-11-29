@@ -34,6 +34,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 minima:
   skin: dark

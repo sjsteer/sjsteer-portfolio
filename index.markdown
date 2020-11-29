@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Welcome :wave:
+
+Here you will find all of my blog posts and personal projects. I plan on doing write ups of my experience with various data sets, so stay tuned.
+
+# Posts 
